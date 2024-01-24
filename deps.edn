@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {io.github.nextjournal/clerk {:git/sha "31326c1f2854e3f23f7cb15bb43cb3f561ad579e"}
+        io.github.nextjournal/simple-http-server {:git/sha "e5f6323cbcf5031bff19001bcdc0ec97b66ba0ef"}
+        babashka/fs {:mvn/version "0.5.20"}}}
